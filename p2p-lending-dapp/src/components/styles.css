@@ -1,0 +1,6 @@
+.backgroundimage {
+    padding: 40px 0;
+    /* background: url(https://astarfarm.com/_nuxt/img/horo_bg_1.c876302.png); */
+    background-position: 50%;
+    background-size: cover;
+}
